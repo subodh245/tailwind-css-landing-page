@@ -9,4 +9,4 @@ I had make responsive website using tailwind css
 
 I solved the errors i was stucked into and made the footer
 and i learn about how to make intractive hamburger menu
-
+<img width="1280" alt="wer" src="https://github.com/subodh245/tailwind-css-landing-page/assets/118099441/1fd2377c-c77d-4c89-bdcd-cf0776f5304e">
